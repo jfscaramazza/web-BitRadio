@@ -1,0 +1,12 @@
+{
+    "station":
+    [
+     {
+     "name": "Radio AmaS¨®nica",
+     "streamURL": "http://equinox.shoutca.st:8554/;",
+     "imageURL": "http://scaramazza.com/radioamasonica/radio/station-radioamasonica.jpg/",
+     "desc": "Orlando, FL",
+     "longDesc": "Suena a Venezuela. Estaci¨®n de radio online con m¨²sica cantada, escrita y/o producida por artistas venezolanos."
+     },
+     ]
+}
